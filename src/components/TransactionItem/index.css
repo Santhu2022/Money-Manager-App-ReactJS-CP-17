@@ -1,0 +1,26 @@
+.table-row-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #cbd5e1;
+  border-top: none;
+  padding-left: 10px;
+}
+.cell {
+  width: 28%;
+  color: #334155;
+}
+.delete-button {
+    margin-right: 2px;
+    margin-left: auto;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.delete-image {
+  width: 22px;
+  height: 22px;
+}
+* {
+  /* border: 1px solid red; */
+}
